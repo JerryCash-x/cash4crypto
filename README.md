@@ -1,1 +1,1 @@
-# cash4crypto
+# template of webpack
